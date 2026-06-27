@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=Gate Pin=T2-1
+Added Pin To Net: NetName=Drain Pin=T2-3
+Added Net: Name=Drain
+Added Pin To Net: NetName=Source Pin=T2-2
+Added Net: Name=Source

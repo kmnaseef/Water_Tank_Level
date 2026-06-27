@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Gate Pin=T2-1
+Change Net Name : Old Net Name=Drain New Net Name=Drain_2
+Change Net Name : Old Net Name=Source New Net Name=Source_2
+Added Pin To Net: NetName=Gate_2 Pin=T2-1
+Added Net: Name=Gate_2
